@@ -1,1 +1,3 @@
-Hito 4, se entrega con el Home comentado y el componente pizza.jsx a la vista
+Hito 6
+El cart component se encuentra dentro de la carpeta component en los assets
+
